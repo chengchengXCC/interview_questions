@@ -1,5 +1,4 @@
 #!/usr/bin/python
-
 class Solution:
 	# sol: fast node & slow node
 	def hasCycle(self, head):
